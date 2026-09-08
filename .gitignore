@@ -1,0 +1,7 @@
+.venv/
+.cache/
+__pycache__/
+*.pyc
+.env
+requirements.txt   # generated from uv.lock at deploy time
+.ruff_cache/
