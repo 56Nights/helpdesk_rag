@@ -1,0 +1,261 @@
+Conversation_ID,Customer_Issue,Tech_Response,Resolution_Time,Issue_Category,Issue_Status
+CONV-0001,Account locked after failed sign-ins,Remove the stale saved password from Credential Manager.,127 minutes,Account,Resolved after follow-up
+CONV-0002,Software installation failure,Run the installer as administrator with antivirus paused.,139 minutes,Software,Resolved after follow-up
+CONV-0003,Software installation failure,Clear the installer cache and retry.,32 minutes,Software,Resolved after follow-up
+CONV-0004,VPN disconnects every few minutes,Switch the VPN profile from UDP to TCP.,170 minutes,Network,Resolved
+CONV-0005,Forgot password,"Unlock the account in the directory, then force a reset at next sign-in.",175 minutes,Account,Pending
+CONV-0006,Application crashes on launch,Reset the application profile and clear its cache directory.,11 minutes,Software,Escalated
+CONV-0007,Wi-Fi drops after waking from sleep,Disable power saving on the wireless adapter in Device Manager.,56 minutes,Network,Escalated
+CONV-0008,Software installation failure,Run the installer as administrator with antivirus paused.,126 minutes,Software,Resolved
+CONV-0009,Software installation failure,Install the missing runtime prerequisites first.,140 minutes,Software,Resolved
+CONV-0010,Laptop will not charge,Reseat the charger and test a second power brick.,177 minutes,Hardware,Resolved
+CONV-0011,Application crashes on launch,Reset the application profile and clear its cache directory.,149 minutes,Software,Escalated
+CONV-0012,Wi-Fi drops after waking from sleep,Update the wireless driver to the current build.,88 minutes,Network,Pending
+CONV-0013,Unable to access email,Re-add the mail profile and re-authenticate.,25 minutes,Account,Resolved after follow-up
+CONV-0014,Wi-Fi drops after waking from sleep,Disable power saving on the wireless adapter in Device Manager.,82 minutes,Network,Resolved after follow-up
+CONV-0015,Cannot connect to Wi-Fi,Restart your router.,8 minutes,Network,Resolved
+CONV-0016,Cannot connect to Wi-Fi,"Forget the network and reconnect, then renew the DHCP lease.",109 minutes,Network,Resolved after follow-up
+CONV-0017,Software installation failure,Clear the installer cache and retry.,180 minutes,Software,Resolved
+CONV-0018,Wi-Fi drops after waking from sleep,Disable power saving on the wireless adapter in Device Manager.,11 minutes,Network,Escalated
+CONV-0019,Wi-Fi drops after waking from sleep,Disable power saving on the wireless adapter in Device Manager.,33 minutes,Network,Resolved
+CONV-0020,Account locked after failed sign-ins,Remove the stale saved password from Credential Manager.,53 minutes,Account,Pending
+CONV-0021,Printer not responding,Clear the print spooler queue and restart the spooler service.,56 minutes,Hardware,Escalated
+CONV-0022,VPN disconnects every few minutes,Switch the VPN profile from UDP to TCP.,106 minutes,Network,Resolved
+CONV-0023,Forgot password,"Unlock the account in the directory, then force a reset at next sign-in.",8 minutes,Account,Resolved
+CONV-0024,Software installation failure,Run the installer as administrator with antivirus paused.,13 minutes,Software,Resolved
+CONV-0025,Forgot password,"Unlock the account in the directory, then force a reset at next sign-in.",162 minutes,Account,Pending
+CONV-0026,Wi-Fi drops after waking from sleep,Disable power saving on the wireless adapter in Device Manager.,45 minutes,Network,Resolved
+CONV-0027,Laptop will not charge,Reseat the charger and test a second power brick.,164 minutes,Hardware,Resolved
+CONV-0028,Laptop will not charge,Reseat the charger and test a second power brick.,27 minutes,Hardware,Resolved
+CONV-0029,Software installation failure,Clear the installer cache and retry.,11 minutes,Software,Resolved after follow-up
+CONV-0030,Blue screen error on startup,Run a memory diagnostic and replace the failing DIMM.,40 minutes,Hardware,Escalated
+CONV-0031,Account locked after failed sign-ins,Remove the stale saved password from Credential Manager.,42 minutes,Account,Escalated
+CONV-0032,VPN disconnects every few minutes,Lower the MTU on the VPN adapter to 1400.,87 minutes,Network,Escalated
+CONV-0033,Software installation failure,Run the installer as administrator with antivirus paused.,56 minutes,Software,Resolved
+CONV-0034,Application crashes on launch,Reinstall the current version over the top.,58 minutes,Software,Pending
+CONV-0035,Forgot password,"Unlock the account in the directory, then force a reset at next sign-in.",162 minutes,Account,Resolved
+CONV-0036,Cannot connect to Wi-Fi,"Forget the network and reconnect, then renew the DHCP lease.",17 minutes,Network,Resolved after follow-up
+CONV-0037,Laptop will not charge,Reseat the charger and test a second power brick.,108 minutes,Hardware,Resolved
+CONV-0038,Software installation failure,Run the installer as administrator with antivirus paused.,141 minutes,Software,Resolved
+CONV-0039,Slow system performance,Check for a runaway process pinning the CPU.,40 minutes,Performance,Resolved
+CONV-0040,Unable to access email,Verify the mailbox licence is still assigned.,165 minutes,Account,Resolved after follow-up
+CONV-0041,Laptop will not charge,Reseat the charger and test a second power brick.,60 minutes,Hardware,Pending
+CONV-0042,Wi-Fi drops after waking from sleep,Disable power saving on the wireless adapter in Device Manager.,122 minutes,Network,Resolved
+CONV-0043,Cannot connect to Wi-Fi,"Forget the network and reconnect, then renew the DHCP lease.",102 minutes,Network,Resolved after follow-up
+CONV-0044,VPN disconnects every few minutes,Switch the VPN profile from UDP to TCP.,43 minutes,Network,Escalated
+CONV-0045,Blue screen error on startup,Run a memory diagnostic and replace the failing DIMM.,141 minutes,Hardware,Resolved after follow-up
+CONV-0046,VPN disconnects every few minutes,Lower the MTU on the VPN adapter to 1400.,12 minutes,Network,Resolved after follow-up
+CONV-0047,Blue screen error on startup,Run a memory diagnostic and replace the failing DIMM.,16 minutes,Hardware,Resolved
+CONV-0048,Application crashes on launch,Reset the application profile and clear its cache directory.,25 minutes,Software,Pending
+CONV-0049,Blue screen error on startup,Boot into safe mode and roll back the most recent driver update.,26 minutes,Hardware,Resolved
+CONV-0050,Unable to access email,Re-add the mail profile and re-authenticate.,19 minutes,Account,Escalated
+CONV-0051,Slow system performance,Free disk space below the 10% threshold.,41 minutes,Performance,Pending
+CONV-0052,Blue screen error on startup,Boot into safe mode and roll back the most recent driver update.,129 minutes,Hardware,Escalated
+CONV-0053,Forgot password,"Unlock the account in the directory, then force a reset at next sign-in.",15 minutes,Account,Escalated
+CONV-0054,Software installation failure,Run the installer as administrator with antivirus paused.,177 minutes,Software,Resolved after follow-up
+CONV-0055,Software installation failure,Run the installer as administrator with antivirus paused.,26 minutes,Software,Resolved
+CONV-0056,Application crashes on launch,Reset the application profile and clear its cache directory.,73 minutes,Software,Escalated
+CONV-0057,Slow system performance,Disable unnecessary startup programs and reboot.,156 minutes,Performance,Resolved after follow-up
+CONV-0058,Account locked after failed sign-ins,Remove the stale saved password from Credential Manager.,29 minutes,Account,Resolved after follow-up
+CONV-0059,Unable to access email,Re-add the mail profile and re-authenticate.,161 minutes,Account,Resolved
+CONV-0060,Cannot connect to Wi-Fi,"Forget the network and reconnect, then renew the DHCP lease.",36 minutes,Network,Resolved after follow-up
+CONV-0061,Software installation failure,Clear the installer cache and retry.,132 minutes,Software,Resolved
+CONV-0062,Cannot connect to Wi-Fi,"Forget the network and reconnect, then renew the DHCP lease.",44 minutes,Network,Pending
+CONV-0063,Printer not responding,Clear the print spooler queue and restart the spooler service.,95 minutes,Hardware,Pending
+CONV-0064,Account locked after failed sign-ins,Unlock the account and clear cached credentials from the machine.,69 minutes,Account,Resolved
+CONV-0065,Application crashes on launch,Reset the application profile and clear its cache directory.,170 minutes,Software,Resolved after follow-up
+CONV-0066,Printer not responding,Remove and re-add the printer using its IP address.,106 minutes,Hardware,Resolved
+CONV-0067,Blue screen error on startup,Boot into safe mode and roll back the most recent driver update.,42 minutes,Hardware,Resolved after follow-up
+CONV-0068,Cannot connect to Wi-Fi,Reinstall the wireless adapter driver.,78 minutes,Network,Pending
+CONV-0069,Wi-Fi drops after waking from sleep,Disable power saving on the wireless adapter in Device Manager.,78 minutes,Network,Escalated
+CONV-0070,Forgot password,Reset it through the self-service portal and check the spam folder.,141 minutes,Account,Resolved after follow-up
+CONV-0071,Blue screen error on startup,Run a memory diagnostic and replace the failing DIMM.,167 minutes,Hardware,Resolved after follow-up
+CONV-0072,Wi-Fi drops after waking from sleep,Update the wireless driver to the current build.,79 minutes,Network,Escalated
+CONV-0073,Cannot connect to Wi-Fi,Reinstall the wireless adapter driver.,79 minutes,Network,Resolved after follow-up
+CONV-0074,Laptop will not charge,Reset the embedded controller by holding power for 30 seconds.,152 minutes,Hardware,Resolved
+CONV-0075,VPN disconnects every few minutes,Switch the VPN profile from UDP to TCP.,56 minutes,Network,Resolved
+CONV-0076,Laptop will not charge,Reseat the charger and test a second power brick.,44 minutes,Hardware,Pending
+CONV-0077,Application crashes on launch,Reset the application profile and clear its cache directory.,35 minutes,Software,Pending
+CONV-0078,Application crashes on launch,Reinstall the current version over the top.,102 minutes,Software,Escalated
+CONV-0079,Application crashes on launch,Reset the application profile and clear its cache directory.,129 minutes,Software,Resolved
+CONV-0080,Slow system performance,Disable unnecessary startup programs and reboot.,128 minutes,Performance,Resolved after follow-up
+CONV-0081,Cannot connect to Wi-Fi,"Forget the network and reconnect, then renew the DHCP lease.",77 minutes,Network,Pending
+CONV-0082,Unable to access email,Verify the mailbox licence is still assigned.,141 minutes,Account,Resolved after follow-up
+CONV-0083,VPN disconnects every few minutes,Switch the VPN profile from UDP to TCP.,65 minutes,Network,Resolved
+CONV-0084,Slow system performance,Disable unnecessary startup programs and reboot.,123 minutes,Performance,Resolved after follow-up
+CONV-0085,Application crashes on launch,Reinstall the current version over the top.,9 minutes,Software,Resolved after follow-up
+CONV-0086,Software installation failure,Clear the installer cache and retry.,136 minutes,Software,Pending
+CONV-0087,Blue screen error on startup,Boot into safe mode and roll back the most recent driver update.,174 minutes,Hardware,Escalated
+CONV-0088,Wi-Fi drops after waking from sleep,Update the wireless driver to the current build.,172 minutes,Network,Escalated
+CONV-0089,Wi-Fi drops after waking from sleep,Disable power saving on the wireless adapter in Device Manager.,107 minutes,Network,Escalated
+CONV-0090,Laptop will not charge,Reseat the charger and test a second power brick.,90 minutes,Hardware,Resolved
+CONV-0091,Slow system performance,Check for a runaway process pinning the CPU.,97 minutes,Performance,Resolved after follow-up
+CONV-0092,Cannot connect to Wi-Fi,"Forget the network and reconnect, then renew the DHCP lease.",148 minutes,Network,Resolved after follow-up
+CONV-0093,Laptop will not charge,Reseat the charger and test a second power brick.,15 minutes,Hardware,Resolved
+CONV-0094,Wi-Fi drops after waking from sleep,Disable power saving on the wireless adapter in Device Manager.,16 minutes,Network,Resolved
+CONV-0095,Blue screen error on startup,Run a memory diagnostic and replace the failing DIMM.,43 minutes,Hardware,Resolved after follow-up
+CONV-0096,Unable to access email,Clear the cached token and sign in again.,140 minutes,Account,Escalated
+CONV-0097,Slow system performance,Disable unnecessary startup programs and reboot.,134 minutes,Performance,Resolved after follow-up
+CONV-0098,Slow system performance,Disable unnecessary startup programs and reboot.,64 minutes,Performance,Resolved after follow-up
+CONV-0099,Unable to access email,Re-add the mail profile and re-authenticate.,151 minutes,Account,Pending
+CONV-0100,Unable to access email,Verify the mailbox licence is still assigned.,151 minutes,Account,Resolved
+CONV-0101,Application crashes on launch,Reset the application profile and clear its cache directory.,164 minutes,Software,Resolved
+CONV-0102,VPN disconnects every few minutes,Lower the MTU on the VPN adapter to 1400.,142 minutes,Network,Resolved
+CONV-0103,Account locked after failed sign-ins,Unlock the account and clear cached credentials from the machine.,145 minutes,Account,Resolved
+CONV-0104,Cannot connect to Wi-Fi,Reinstall the wireless adapter driver.,15 minutes,Network,Resolved after follow-up
+CONV-0105,Cannot connect to Wi-Fi,"Forget the network and reconnect, then renew the DHCP lease.",110 minutes,Network,Resolved after follow-up
+CONV-0106,Software installation failure,Run the installer as administrator with antivirus paused.,31 minutes,Software,Pending
+CONV-0107,Wi-Fi drops after waking from sleep,Update the wireless driver to the current build.,125 minutes,Network,Resolved after follow-up
+CONV-0108,Forgot password,Reset it through the self-service portal and check the spam folder.,129 minutes,Account,Resolved after follow-up
+CONV-0109,Blue screen error on startup,Boot into safe mode and roll back the most recent driver update.,129 minutes,Hardware,Resolved after follow-up
+CONV-0110,Wi-Fi drops after waking from sleep,Disable power saving on the wireless adapter in Device Manager.,166 minutes,Network,Resolved
+CONV-0111,Laptop will not charge,Reseat the charger and test a second power brick.,13 minutes,Hardware,Resolved
+CONV-0112,VPN disconnects every few minutes,Switch the VPN profile from UDP to TCP.,80 minutes,Network,Resolved
+CONV-0113,Blue screen error on startup,Boot into safe mode and roll back the most recent driver update.,135 minutes,Hardware,Resolved
+CONV-0114,Slow system performance,Free disk space below the 10% threshold.,138 minutes,Performance,Pending
+CONV-0115,Slow system performance,Disable unnecessary startup programs and reboot.,143 minutes,Performance,Escalated
+CONV-0116,Cannot connect to Wi-Fi,"Forget the network and reconnect, then renew the DHCP lease.",113 minutes,Network,Pending
+CONV-0117,Software installation failure,Run the installer as administrator with antivirus paused.,60 minutes,Software,Escalated
+CONV-0118,Unable to access email,Verify the mailbox licence is still assigned.,143 minutes,Account,Resolved
+CONV-0119,Unable to access email,Verify the mailbox licence is still assigned.,42 minutes,Account,Resolved
+CONV-0120,Slow system performance,Free disk space below the 10% threshold.,96 minutes,Performance,Escalated
+CONV-0121,Blue screen error on startup,Run a memory diagnostic and replace the failing DIMM.,57 minutes,Hardware,Resolved
+CONV-0122,Printer not responding,Remove and re-add the printer using its IP address.,42 minutes,Hardware,Escalated
+CONV-0123,VPN disconnects every few minutes,Lower the MTU on the VPN adapter to 1400.,74 minutes,Network,Resolved after follow-up
+CONV-0124,Forgot password,"Unlock the account in the directory, then force a reset at next sign-in.",115 minutes,Account,Resolved after follow-up
+CONV-0125,Slow system performance,Disable unnecessary startup programs and reboot.,111 minutes,Performance,Pending
+CONV-0126,Cannot connect to Wi-Fi,"Forget the network and reconnect, then renew the DHCP lease.",153 minutes,Network,Pending
+CONV-0127,Blue screen error on startup,Boot into safe mode and roll back the most recent driver update.,137 minutes,Hardware,Pending
+CONV-0128,Blue screen error on startup,Boot into safe mode and roll back the most recent driver update.,56 minutes,Hardware,Pending
+CONV-0129,Account locked after failed sign-ins,Unlock the account and clear cached credentials from the machine.,17 minutes,Account,Pending
+CONV-0130,Software installation failure,Run the installer as administrator with antivirus paused.,153 minutes,Software,Resolved after follow-up
+CONV-0131,Printer not responding,Clear the print spooler queue and restart the spooler service.,60 minutes,Hardware,Resolved
+CONV-0132,VPN disconnects every few minutes,Lower the MTU on the VPN adapter to 1400.,180 minutes,Network,Resolved
+CONV-0133,Cannot connect to Wi-Fi,"Forget the network and reconnect, then renew the DHCP lease.",126 minutes,Network,Resolved
+CONV-0134,Wi-Fi drops after waking from sleep,Disable power saving on the wireless adapter in Device Manager.,127 minutes,Network,Resolved after follow-up
+CONV-0135,Blue screen error on startup,Boot into safe mode and roll back the most recent driver update.,161 minutes,Hardware,Resolved after follow-up
+CONV-0136,Application crashes on launch,Reinstall the current version over the top.,59 minutes,Software,Resolved
+CONV-0137,Account locked after failed sign-ins,Unlock the account and clear cached credentials from the machine.,102 minutes,Account,Resolved after follow-up
+CONV-0138,Printer not responding,Reinstall the printer drivers.,32 minutes,Hardware,Resolved after follow-up
+CONV-0139,Cannot connect to Wi-Fi,"Forget the network and reconnect, then renew the DHCP lease.",29 minutes,Network,Pending
+CONV-0140,Slow system performance,Check for a runaway process pinning the CPU.,169 minutes,Performance,Escalated
+CONV-0141,Software installation failure,Clear the installer cache and retry.,137 minutes,Software,Resolved after follow-up
+CONV-0142,Blue screen error on startup,Run a memory diagnostic and replace the failing DIMM.,74 minutes,Hardware,Resolved
+CONV-0143,Wi-Fi drops after waking from sleep,Update the wireless driver to the current build.,48 minutes,Network,Pending
+CONV-0144,Forgot password,Reset it through the self-service portal and check the spam folder.,92 minutes,Account,Escalated
+CONV-0145,Slow system performance,Disable unnecessary startup programs and reboot.,118 minutes,Performance,Pending
+CONV-0146,Forgot password,Reset it through the self-service portal and check the spam folder.,55 minutes,Account,Resolved
+CONV-0147,Blue screen error on startup,Boot into safe mode and roll back the most recent driver update.,33 minutes,Hardware,Resolved
+CONV-0148,Blue screen error on startup,Run a memory diagnostic and replace the failing DIMM.,167 minutes,Hardware,Resolved
+CONV-0149,Laptop will not charge,Reset the embedded controller by holding power for 30 seconds.,178 minutes,Hardware,Resolved
+CONV-0150,Printer not responding,Reinstall the printer drivers.,153 minutes,Hardware,Resolved
+CONV-0151,Wi-Fi drops after waking from sleep,Disable power saving on the wireless adapter in Device Manager.,135 minutes,Network,Pending
+CONV-0152,Slow system performance,Disable unnecessary startup programs and reboot.,109 minutes,Performance,Escalated
+CONV-0153,Cannot connect to Wi-Fi,"Forget the network and reconnect, then renew the DHCP lease.",35 minutes,Network,Pending
+CONV-0154,Laptop will not charge,Reseat the charger and test a second power brick.,137 minutes,Hardware,Resolved
+CONV-0155,Printer not responding,Reinstall the printer drivers.,10 minutes,Hardware,Resolved
+CONV-0156,Laptop will not charge,Reseat the charger and test a second power brick.,95 minutes,Hardware,Resolved after follow-up
+CONV-0157,Unable to access email,Re-add the mail profile and re-authenticate.,141 minutes,Account,Resolved after follow-up
+CONV-0158,Wi-Fi drops after waking from sleep,Disable power saving on the wireless adapter in Device Manager.,173 minutes,Network,Resolved
+CONV-0159,Software installation failure,Clear the installer cache and retry.,19 minutes,Software,Resolved after follow-up
+CONV-0160,VPN disconnects every few minutes,Switch the VPN profile from UDP to TCP.,51 minutes,Network,Escalated
+CONV-0161,Unable to access email,Verify the mailbox licence is still assigned.,22 minutes,Account,Resolved after follow-up
+CONV-0162,Account locked after failed sign-ins,Unlock the account and clear cached credentials from the machine.,142 minutes,Account,Resolved after follow-up
+CONV-0163,Laptop will not charge,Reseat the charger and test a second power brick.,81 minutes,Hardware,Resolved after follow-up
+CONV-0164,Laptop will not charge,Reseat the charger and test a second power brick.,80 minutes,Hardware,Pending
+CONV-0165,Slow system performance,Disable unnecessary startup programs and reboot.,11 minutes,Performance,Pending
+CONV-0166,Software installation failure,Run the installer as administrator with antivirus paused.,48 minutes,Software,Resolved after follow-up
+CONV-0167,Application crashes on launch,Reset the application profile and clear its cache directory.,88 minutes,Software,Pending
+CONV-0168,Cannot connect to Wi-Fi,Reinstall the wireless adapter driver.,89 minutes,Network,Resolved
+CONV-0169,Printer not responding,Clear the print spooler queue and restart the spooler service.,130 minutes,Hardware,Resolved
+CONV-0170,Printer not responding,Clear the print spooler queue and restart the spooler service.,33 minutes,Hardware,Escalated
+CONV-0171,Slow system performance,Check for a runaway process pinning the CPU.,44 minutes,Performance,Escalated
+CONV-0172,Printer not responding,Reinstall the printer drivers.,37 minutes,Hardware,Resolved
+CONV-0173,Forgot password,Reset it through the self-service portal and check the spam folder.,60 minutes,Account,Escalated
+CONV-0174,Blue screen error on startup,Boot into safe mode and roll back the most recent driver update.,39 minutes,Hardware,Resolved after follow-up
+CONV-0175,VPN disconnects every few minutes,Lower the MTU on the VPN adapter to 1400.,124 minutes,Network,Resolved after follow-up
+CONV-0176,Application crashes on launch,Reset the application profile and clear its cache directory.,115 minutes,Software,Resolved after follow-up
+CONV-0177,Slow system performance,Free disk space below the 10% threshold.,43 minutes,Performance,Escalated
+CONV-0178,Slow system performance,Disable unnecessary startup programs and reboot.,131 minutes,Performance,Resolved
+CONV-0179,Laptop will not charge,Reset the embedded controller by holding power for 30 seconds.,167 minutes,Hardware,Escalated
+CONV-0180,Laptop will not charge,Reseat the charger and test a second power brick.,152 minutes,Hardware,Pending
+CONV-0181,Printer not responding,Reinstall the printer drivers.,69 minutes,Hardware,Resolved
+CONV-0182,Printer not responding,Clear the print spooler queue and restart the spooler service.,175 minutes,Hardware,Escalated
+CONV-0183,Application crashes on launch,Reset the application profile and clear its cache directory.,23 minutes,Software,Resolved
+CONV-0184,Laptop will not charge,Reseat the charger and test a second power brick.,167 minutes,Hardware,Resolved
+CONV-0185,Printer not responding,Reinstall the printer drivers.,26 minutes,Hardware,Pending
+CONV-0186,Application crashes on launch,Reset the application profile and clear its cache directory.,68 minutes,Software,Pending
+CONV-0187,Blue screen error on startup,Boot into safe mode and roll back the most recent driver update.,98 minutes,Hardware,Resolved
+CONV-0188,Blue screen error on startup,Boot into safe mode and roll back the most recent driver update.,42 minutes,Hardware,Escalated
+CONV-0189,Wi-Fi drops after waking from sleep,Update the wireless driver to the current build.,122 minutes,Network,Pending
+CONV-0190,Software installation failure,Install the missing runtime prerequisites first.,62 minutes,Software,Resolved after follow-up
+CONV-0191,Slow system performance,Disable unnecessary startup programs and reboot.,46 minutes,Performance,Resolved after follow-up
+CONV-0192,Application crashes on launch,Reinstall the current version over the top.,160 minutes,Software,Resolved
+CONV-0193,Unable to access email,Verify the mailbox licence is still assigned.,55 minutes,Account,Resolved after follow-up
+CONV-0194,Blue screen error on startup,Run a memory diagnostic and replace the failing DIMM.,126 minutes,Hardware,Escalated
+CONV-0195,Wi-Fi drops after waking from sleep,Disable power saving on the wireless adapter in Device Manager.,118 minutes,Network,Resolved after follow-up
+CONV-0196,Account locked after failed sign-ins,Remove the stale saved password from Credential Manager.,126 minutes,Account,Resolved
+CONV-0197,Cannot connect to Wi-Fi,"Forget the network and reconnect, then renew the DHCP lease.",62 minutes,Network,Escalated
+CONV-0198,Software installation failure,Run the installer as administrator with antivirus paused.,85 minutes,Software,Resolved after follow-up
+CONV-0199,Slow system performance,Disable unnecessary startup programs and reboot.,44 minutes,Performance,Resolved
+CONV-0200,Application crashes on launch,Reinstall the current version over the top.,101 minutes,Software,Escalated
+CONV-0201,Blue screen error on startup,Run a memory diagnostic and replace the failing DIMM.,153 minutes,Hardware,Resolved after follow-up
+CONV-0202,Application crashes on launch,Reinstall the current version over the top.,120 minutes,Software,Resolved after follow-up
+CONV-0203,Laptop will not charge,Reseat the charger and test a second power brick.,64 minutes,Hardware,Resolved after follow-up
+CONV-0204,Slow system performance,Check for a runaway process pinning the CPU.,71 minutes,Performance,Resolved
+CONV-0205,Blue screen error on startup,Boot into safe mode and roll back the most recent driver update.,109 minutes,Hardware,Resolved after follow-up
+CONV-0206,Printer not responding,Reinstall the printer drivers.,102 minutes,Hardware,Pending
+CONV-0207,Unable to access email,Re-add the mail profile and re-authenticate.,159 minutes,Account,Resolved after follow-up
+CONV-0208,VPN disconnects every few minutes,Switch the VPN profile from UDP to TCP.,124 minutes,Network,Escalated
+CONV-0209,Laptop will not charge,Reset the embedded controller by holding power for 30 seconds.,64 minutes,Hardware,Resolved after follow-up
+CONV-0210,Unable to access email,Re-add the mail profile and re-authenticate.,83 minutes,Account,Escalated
+CONV-0211,Application crashes on launch,Reinstall the current version over the top.,116 minutes,Software,Resolved
+CONV-0212,Unable to access email,Re-add the mail profile and re-authenticate.,147 minutes,Account,Resolved
+CONV-0213,Wi-Fi drops after waking from sleep,Disable power saving on the wireless adapter in Device Manager.,34 minutes,Network,Escalated
+CONV-0214,Wi-Fi drops after waking from sleep,Disable power saving on the wireless adapter in Device Manager.,175 minutes,Network,Resolved
+CONV-0215,Slow system performance,Check for a runaway process pinning the CPU.,116 minutes,Performance,Resolved
+CONV-0216,Printer not responding,Clear the print spooler queue and restart the spooler service.,141 minutes,Hardware,Resolved
+CONV-0217,Account locked after failed sign-ins,Unlock the account and clear cached credentials from the machine.,94 minutes,Account,Pending
+CONV-0218,Blue screen error on startup,Run a memory diagnostic and replace the failing DIMM.,134 minutes,Hardware,Resolved after follow-up
+CONV-0219,Slow system performance,Disable unnecessary startup programs and reboot.,166 minutes,Performance,Escalated
+CONV-0220,Forgot password,"Unlock the account in the directory, then force a reset at next sign-in.",178 minutes,Account,Resolved after follow-up
+CONV-0221,Cannot connect to Wi-Fi,Reinstall the wireless adapter driver.,30 minutes,Network,Escalated
+CONV-0222,Unable to access email,Verify the mailbox licence is still assigned.,142 minutes,Account,Resolved after follow-up
+CONV-0223,Cannot connect to Wi-Fi,Reinstall the wireless adapter driver.,115 minutes,Network,Escalated
+CONV-0224,VPN disconnects every few minutes,Switch the VPN profile from UDP to TCP.,49 minutes,Network,Escalated
+CONV-0225,Forgot password,Reset it through the self-service portal and check the spam folder.,90 minutes,Account,Resolved
+CONV-0226,Forgot password,Reset it through the self-service portal and check the spam folder.,78 minutes,Account,Escalated
+CONV-0227,Cannot connect to Wi-Fi,"Forget the network and reconnect, then renew the DHCP lease.",37 minutes,Network,Resolved
+CONV-0228,VPN disconnects every few minutes,Lower the MTU on the VPN adapter to 1400.,53 minutes,Network,Escalated
+CONV-0229,Account locked after failed sign-ins,Unlock the account and clear cached credentials from the machine.,131 minutes,Account,Escalated
+CONV-0230,Cannot connect to Wi-Fi,"Forget the network and reconnect, then renew the DHCP lease.",58 minutes,Network,Resolved
+CONV-0231,Printer not responding,Reinstall the printer drivers.,161 minutes,Hardware,Pending
+CONV-0232,Software installation failure,Run the installer as administrator with antivirus paused.,121 minutes,Software,Resolved
+CONV-0233,Laptop will not charge,Reseat the charger and test a second power brick.,87 minutes,Hardware,Pending
+CONV-0234,Unable to access email,Re-add the mail profile and re-authenticate.,74 minutes,Account,Resolved after follow-up
+CONV-0235,Forgot password,"Unlock the account in the directory, then force a reset at next sign-in.",95 minutes,Account,Pending
+CONV-0236,Wi-Fi drops after waking from sleep,Disable power saving on the wireless adapter in Device Manager.,64 minutes,Network,Resolved after follow-up
+CONV-0237,Printer not responding,Remove and re-add the printer using its IP address.,106 minutes,Hardware,Escalated
+CONV-0238,Unable to access email,Verify the mailbox licence is still assigned.,22 minutes,Account,Pending
+CONV-0239,Printer not responding,Remove and re-add the printer using its IP address.,128 minutes,Hardware,Escalated
+CONV-0240,Account locked after failed sign-ins,Remove the stale saved password from Credential Manager.,115 minutes,Account,Resolved after follow-up
+CONV-0241,VPN disconnects every few minutes,Switch the VPN profile from UDP to TCP.,90 minutes,Network,Resolved
+CONV-0242,Unable to access email,Re-add the mail profile and re-authenticate.,166 minutes,Account,Resolved
+CONV-0243,Unable to access email,Re-add the mail profile and re-authenticate.,154 minutes,Account,Pending
+CONV-0244,Cannot connect to Wi-Fi,"Forget the network and reconnect, then renew the DHCP lease.",46 minutes,Network,Pending
+CONV-0245,Wi-Fi drops after waking from sleep,Disable power saving on the wireless adapter in Device Manager.,165 minutes,Network,Pending
+CONV-0246,Wi-Fi drops after waking from sleep,Update the wireless driver to the current build.,127 minutes,Network,Resolved
+CONV-0247,Slow system performance,Free disk space below the 10% threshold.,137 minutes,Performance,Resolved
+CONV-0248,Printer not responding,Clear the print spooler queue and restart the spooler service.,31 minutes,Hardware,Pending
+CONV-0249,Account locked after failed sign-ins,Unlock the account and clear cached credentials from the machine.,147 minutes,Account,Resolved after follow-up
+CONV-0250,Account locked after failed sign-ins,Unlock the account and clear cached credentials from the machine.,87 minutes,Account,Resolved
+CONV-0251,Forgot password,Reset it through the self-service portal and check the spam folder.,86 minutes,Account,Escalated
+CONV-0252,Application crashes on launch,Reinstall the current version over the top.,100 minutes,Software,Resolved
+CONV-0253,VPN disconnects every few minutes,Switch the VPN profile from UDP to TCP.,108 minutes,Network,Pending
+CONV-0254,Slow system performance,Check for a runaway process pinning the CPU.,39 minutes,Performance,Pending
+CONV-0255,Cannot connect to Wi-Fi,Restart your router.,129 minutes,Network,Resolved
+CONV-0256,Software installation failure,Run the installer as administrator with antivirus paused.,10 minutes,Software,Escalated
+CONV-0257,Slow system performance,Disable unnecessary startup programs and reboot.,165 minutes,Performance,Resolved
+CONV-0258,Application crashes on launch,Reset the application profile and clear its cache directory.,146 minutes,Software,Pending
+CONV-0259,Blue screen error on startup,Run a memory diagnostic and replace the failing DIMM.,150 minutes,Hardware,Pending
+CONV-0260,Laptop will not charge,Reseat the charger and test a second power brick.,104 minutes,Hardware,Pending
